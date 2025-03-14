@@ -1,2 +1,2 @@
 # Navigation-Bar
-This is my first Navigation bar project
+This is a study sync website

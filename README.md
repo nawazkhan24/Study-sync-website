@@ -1,3 +1,3 @@
 # Study-sync-website
-This is my first Navigation bar project
+This is the front-end of the Study sync website created by using html and css.
 
